@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // French
+    <string name="title">langue</string>
+    <string name="btn_back">Dos</string>
+    <string name="btn_next">Suivante</string>
+    <string name="title_intro">Amusant avec une voix diversifiée</string>
+</resources>

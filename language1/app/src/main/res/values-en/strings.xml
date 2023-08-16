@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //English
+    <string name="title">Language</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_next">Next</string>
+    <string name="title_intro">Fun with diverse voice</string>
+</resources>

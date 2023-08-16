@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // Portugeese
+    <string name="title">Linguagem</string>
+    <string name="btn_back">BVoltar</string>
+    <string name="btn_next">Próxima</string>
+    <string name="title_intro">Diversão com voz diversificada</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // Spanish
+    <string name="title">Idioma</string>
+    <string name="btn_back">Atrás</string>
+    <string name="btn_next">Próxima</string>
+    <string name="title_intro">Diversión con voz diversa</string>
+</resources>

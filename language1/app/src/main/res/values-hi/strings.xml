@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // Hindi
+    <string name="title">भाषा</string>
+    <string name="btn_back">अगला</string>
+    <string name="btn_next">पीछे</string>
+    <string name="title_intro">विविध आवाज के साथ मज़ा</string>
+</resources>

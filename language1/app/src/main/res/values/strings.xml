@@ -1,0 +1,61 @@
+<resources>
+
+    //English
+    <string name="title">Language</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_next">Next</string>
+    <string name="title_intro">Fun with diverse voice</string>
+
+<!--    //tiếng hindi-->
+<!--    <string name="hindi_setting">सेटिंग</string>-->
+<!--    <string name="hindi_option">भाषा विकल्प</string>-->
+<!--    <string name="hindi_rteus">रेटस</string>-->
+<!--    <string name="hindi_privacy">गोपनीयता नीति</string>-->
+
+<!--    // tiếng tây ban nha-->
+<!--    <string name="tbn_setting">configuración</string>-->
+<!--    <string name="tbn_option">opción de idioma</string>-->
+<!--    <string name="tbn_rteus">Nos califica</string>-->
+<!--    <string name="tbn_privacy">política de privacidad</string>-->
+
+<!--    // tiếng pháp-->
+<!--    <string name="phap_setting">paramètre</string>-->
+<!--    <string name="phap_option">choix de langue</string>-->
+<!--    <string name="phapv_rteus">évaluez nous</string>-->
+<!--    <string name="phap_priacy">politique de confidentialité</string>-->
+
+<!--    // tiếng bồ đào nha-->
+<!--    <string name="bdn_setting">contexto</string>-->
+<!--    <string name="bdn_option">opção de idioma</string>-->
+<!--    <string name="bdn_rteus">nos avalie</string>-->
+<!--    <string name="bdn_privacy">política de Privacidade</string>-->
+
+<!--//-->
+<!--    <string name="english_1">Fun with diverse voice</string>-->
+<!--    <string name="english_2">Explore different voice effect</string>-->
+<!--    <string name="english_3">Convert text to voice</string>-->
+
+<!--    &lt;!&ndash; Tây Ban Nha &ndash;&gt;-->
+<!--    <string name="taybannha_1">Diversión con voz diversa</string>-->
+<!--    <string name="taybannha_2">Explorar diferentes efectos de voz</string>-->
+<!--    <string name="taybannha_3">Convertir texto en voz</string>-->
+
+<!--    &lt;!&ndash; hindi &ndash;&gt;-->
+<!--    <string name="hind_1">विविध आवाज के साथ मजा</string>-->
+<!--    <string name="hindi_2">विभिन्न आवाज प्रभाव का अन्वेषण करें</string>-->
+<!--    <string name="hindi_3">पाठ को आवाज में बदलें</string>-->
+
+<!--    &lt;!&ndash; bồ đào nha &ndash;&gt;-->
+<!--    <string name="bodaonha_1">Diversão com voz diversificada</string>-->
+<!--    <string name="bodaonha_2">Explore diferentes efeitos de voz</string>-->
+<!--    <string name="bodaonha_3">Converter texto em voz</string>-->
+
+<!--    &lt;!&ndash; pháp &ndash;&gt;-->
+<!--    <string name="phap_1">S\'amuser avec une voix diverse</string>-->
+<!--    <string name="phap_2">Explorer différents effets vocaux</string>-->
+<!--    <string name="phap_3">Convertir le texte en voix</string>-->
+
+
+
+
+</resources>
